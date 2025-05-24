@@ -1,4 +1,4 @@
-# BeautyCílios - Landing Page
+# StudioDaniellyDoria - Landing Page
 
 Uma landing page moderna e profissional para serviços de extensão de cílios.
 
